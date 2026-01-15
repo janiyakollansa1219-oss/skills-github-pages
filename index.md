@@ -1,9 +1,3 @@
 ---
-title: Welcome to my blog, This is the title.!
+title: Welcome to my blog
 ---
-
-* H1 heading
-  :)
-
-
-* Hmm ok, :D
